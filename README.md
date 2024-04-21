@@ -1,8 +1,7 @@
 # Monolingual v.s. Multilingual LLMs
 
 ## Important Note:
-### A large portion of the code for preprocessing and training came from the research paper Match the Script, Adapt if Multilingual: Analyzing the Effect of
-Multilingual Pretraining on Cross-lingual Transferability
+### A large portion of the code for preprocessing and training came from the research paper Match the Script, Adapt if Multilingual: Analyzing the Effect of Multilingual Pretraining on Cross-lingual Transferability
 
 ### Citation for preprocessing and training scripts: 
 @inproceedings{fujinuma2022match,
