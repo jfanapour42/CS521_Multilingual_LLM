@@ -4,7 +4,8 @@
 ### A large portion of the code for preprocessing and training came from the research paper Match the Script, Adapt if Multilingual: Analyzing the Effect of
 Multilingual Pretraining on Cross-lingual Transferability
 
-### Citation: @inproceedings{fujinuma2022match,
+### Citation for preprocessing and training scripts: 
+@inproceedings{fujinuma2022match,
     title = "Match the Script, Adapt if Multilingual: Analyzing the Effect of Multilingual Pretraining on Cross-lingual Transferability",
     author = "Yoshinari Fujinuma and Jordan Boyd-Graber and Katharina Kann",
     booktitle = "Proceedings of the Association for Computational Linguistics (to appear)",
