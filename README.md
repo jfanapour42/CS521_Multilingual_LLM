@@ -25,7 +25,7 @@ If running regression analysis:
 ## Obtaining and Preprocessing the Pretraining Data
 1. Obtain CoNLL 2017 Wikipedia dump from https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-1989. 
    1. or `wget https://lindat.mff.cuni.cz/repository/xmlui/bitstream/handle/11234/1-1989/English-annotated-conll17.tar` and change "English" for other languages.
-2. Preprocess by obtaining the raw text by running e.g., `scripts/preprocess_en/en00.sh`
+2. Preprocess by obtaining the raw text by running e.g., `scripts/preprocess_en/en.sh`
 3. Downsample by running `src/scripts/downsample_train_dev.sh`
 
 ## Pretraining
